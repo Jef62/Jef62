@@ -10,3 +10,8 @@ Olá! Eu sou o Jeferson!👋
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 - 😄 Pronomes: Ele/Dele
 - ⚡ Curiosidade: Adoro explorar as interseções entre finanças e tecnologia!
+<div>
+<a href-"https://github.com/Jef62">
+<img height="180em" src-"https://github-readme-stats.vercel.app/api?username-Jef62&show_icons-true&theme-dark&include_all_commits-true&count_private-true"[>
+<img height="180em" src-"https://github-readme-stats.vercel.app/api/top-langs/?username-Jef62&layout-compact&langs_count-16&theme-dark"/>
+</div>
